@@ -1,5 +1,4 @@
 # Monte-Carlo-Simulations
-Monte Carlo simulation of 2D-magnetic materials
 Read the project report for the detailed description and results of the simulations
 
 # Compilation and execution
